@@ -1,23 +1,15 @@
 {
   "name": "heroku",
   "version": "1.0.0",
+  "description": "",
   "main": "lab.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
   },
-  "devDependencies": {},
-  "description": "hello world",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/pdinguana-sivuilu1/lab.git"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lab.js"
   },
-  "bugs": {
-    "url": "https://github.com/pdinguana-sivuilu1/lab/issues"
-  },
-  "homepage": "https://github.com/pdinguana-sivuilu1/lab#readme"
+  "author": "",
+  "license": "ISC"
 }
